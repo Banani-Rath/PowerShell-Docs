@@ -11,7 +11,6 @@ ms.prod:  powershell
 
 #  PowerShell Scripting
 
-The documentation collection is organized around 4 main sections:
 
 ##  [What's new with PowerShell](whats-new/What-s-New-With-PowerShell.md)
 In this section you'll find all announcements about the product (version by
